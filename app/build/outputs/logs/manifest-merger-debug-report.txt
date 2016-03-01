@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Student\AndroidStudioProjects\Messenger\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Student\AndroidStudioProjects\Messenger\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:6:9-43
+	android:theme
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:8:9-40
+activity#com.alexa.android.messenger.CreateMessageActivity
+ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:9:9-18:16
+	android:label
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:11:9-41
+	android:name
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:10:9-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:12:9-16:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:13:13-65
+	android:name
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:13:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:15:13-73
+	android:name
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:15:23-70
+activity#com.alexa.android.messenger.ReceiveMessageActivity
+ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:20:9-23:20
+	android:label
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:22:13-67
+	android:name
+		ADDED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml:21:13-51
+uses-sdk
+INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.0] C:\Users\Student\AndroidStudioProjects\Messenger\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Student\AndroidStudioProjects\Messenger\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Student\AndroidStudioProjects\Messenger\app\src\main\AndroidManifest.xml
