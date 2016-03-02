@@ -1,6 +1,6 @@
 # messenger App<br>
 <b> Alexa Olmos - 
-<b> Norwalk High School Junior<br>
+<b> Norwalk High School (Junior)<br>
 <b> Project Lead The Way (PLTW) Computer Science</b><br>
 <b> Class:</b> Computer Science Applications (CSA) - 2nd year <br>
 <b> On the completed app, you are able to send messeges to others using an EditTextView<br>
