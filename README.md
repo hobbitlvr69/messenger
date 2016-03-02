@@ -10,5 +10,5 @@
 <b> It will then transfer to a different screen where you can select the contact you wish to deliver it to.
 <b> Then the message sends.
 </b>&nbsp;:penguin:<br><br>
-! [Alt text] (https://github.com/hobbitlvr69/messenger/blob/master/screenshots/capture.png)
+! [screenshot1] (https://github.com/hobbitlvr69/messenger/blob/master/screenshots/capture.png)
 <br>
