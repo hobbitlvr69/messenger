@@ -7,6 +7,6 @@
 <b> The applications code is based off two parts, one is the receive message portion whilst the other is send message.
 <b> Both parts of the code need to work in conjunction with each other for the application to work seemlessly. 
 <b> When you open the app you can type in your message and press send.
-<b> It will then go to a screen where you can choose your contact.
+<b> It will then transfer to a different screen where you can select the contact you wish to deliver it to.
 <b> Then the message sends.
 <br>
