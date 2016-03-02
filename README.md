@@ -9,5 +9,5 @@
 <b> When you open the app you can type in your message and press send.
 <b> It will then transfer to a different screen where you can select the contact you wish to deliver it to.
 <b> Then the message sends.
-<b> message screen</b>&nbsp;:penguin:<br><br>
+</b>&nbsp;:penguin:<br><br>
 <br>
