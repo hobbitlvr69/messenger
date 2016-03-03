@@ -10,5 +10,15 @@
 <b> It will then transfer to a different screen where you can select the contact you wish to deliver it to.
 <b> Then the message sends.
 </b>&nbsp;:penguin:<br><br>
-! [screenshot1] (https://github.com/hobbitlvr69/messenger/blob/master/screenshots/capture.png)
+
+
+![Alt Text] (https://github.com/hobbitlvr69/messenger/blob/master/screenshotz/Capture.PNG "1st")
+
+![Alt Text] (https://github.com/hobbitlvr69/messenger/blob/master/screenshotz/Capture2.PNG "2nd")
+
+![Alt Text] (https://github.com/hobbitlvr69/messenger/blob/master/screenshotz/Capture3.PNG "3rd")
+
+![Alt Text] (https://github.com/hobbitlvr69/messenger/blob/master/screenshotz/Capture3.PNG "4th")
+
+:metal: :tennis:
 <br>
